@@ -1,0 +1,424 @@
+1651654036~~1~~Processing step 1/14
+1651654036~~1~~Skipping NinjaScanner files integrity check
+1651654036~~8~~Process executed in 0.0003 seconds and used 6.92 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654036~~1~~Processing step 2/14
+1651654036~~1~~Building file's list
+1651654036~~1~~Total files found: 4,770
+1651654036~~1~~Building database posts and pages checksum
+1651654036~~1~~Found 1 posts and 7 pages in the database
+1651654036~~8~~Process executed in 0.2644 seconds and used 9.57 MB of memory (NinjaScanner additional memory: 3.78 MB).
+1651654036~~1~~Processing step 3/14
+1651654036~~1~~Checking WordPress core files integrity
+1651654036~~8~~Downloading wordpress-5.9.3.zip from wordpress.org
+1651654038~~8~~Building files list from ZIP archive
+1651654039~~8~~Using sha1 algo
+1651654040~~1~~Files integrity is O.K
+1651654040~~8~~Process executed in 3.4808 seconds and used 10.29 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654040~~1~~Processing step 4/14
+1651654040~~1~~Building plugins list
+1651654040~~8~~Total plugins found: 7
+1651654040~~8~~Process executed in 0.0180 seconds and used 9.79 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654040~~1~~Processing step 5/14
+1651654040~~1~~Checking plugin files integrity
+1651654040~~8~~akismet 4.2.3
+1651654040~~8~~Attempting to download it from wordpress.org
+1651654041~~8~~Building files list from ZIP archive
+1651654041~~8~~Using sha1 algo
+1651654041~~8~~contact-form-7 5.5.6
+1651654041~~8~~Attempting to download it from wordpress.org
+1651654041~~8~~Building files list from ZIP archive
+1651654041~~8~~Using sha1 algo
+1651654041~~8~~elementor 3.6.5
+1651654041~~8~~Attempting to download it from wordpress.org
+1651654042~~8~~Building files list from ZIP archive
+1651654043~~8~~Using sha1 algo
+1651654044~~8~~essential-addons-for-elementor-lite 5.1.1
+1651654044~~8~~Attempting to download it from wordpress.org
+1651654045~~8~~Building files list from ZIP archive
+1651654045~~8~~Using sha1 algo
+1651654045~~8~~loginizer 1.7.0
+1651654045~~8~~Attempting to download it from wordpress.org
+1651654046~~8~~Building files list from ZIP archive
+1651654046~~8~~Using sha1 algo
+1651654046~~8~~ninjascanner 3.0.10
+1651654046~~8~~Attempting to download it from wordpress.org
+1651654047~~8~~Building files list from ZIP archive
+1651654047~~8~~Using sha1 algo
+1651654047~~8~~wp-cerber 8.9.6
+1651654047~~8~~Attempting to download it from wordpress.org
+1651654048~~8~~Building files list from ZIP archive
+1651654048~~8~~Using sha1 algo
+1651654048~~2~~Additional/suspicious files: 6
+1651654048~~1~~Plugin files integrity is O.K
+1651654048~~8~~Process executed in 8.2457 seconds and used 9.79 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654049~~1~~Processing step 6/14
+1651654049~~1~~Building themes list
+1651654049~~8~~Total themes found: 4
+1651654049~~8~~Process executed in 0.0074 seconds and used 9.53 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654049~~1~~Processing step 7/14
+1651654049~~1~~Checking theme files integrity
+1651654049~~8~~aranib 3.0.3
+1651654049~~8~~Attempting to download it from wordpress.org
+1651654049~~2~~HTTP Error 404. Skipping aranib 3.0.3, it may not be available in the repo
+1651654049~~8~~twentytwenty 1.9
+1651654049~~8~~Attempting to download it from wordpress.org
+1651654050~~8~~Building files list from ZIP archive
+1651654050~~8~~Using sha1 algo
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/404.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/css/editor-style-block.css
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/js/color-calculations.js
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/js/customize-controls.js
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/js/customize-preview.js
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/js/customize.js
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/js/editor-script-block.js
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/js/index.js
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/classes/class-twentytwenty-non-latin-languages.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/classes/class-twentytwenty-script-loader.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/classes/class-twentytwenty-separator-control.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/classes/class-twentytwenty-svg-icons.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-page.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/comments.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/footer.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/functions.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/header.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/inc/block-patterns.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/inc/custom-css.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/inc/starter-content.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/inc/svg-icons.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/inc/template-tags.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/index.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/package-lock.json
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/package.json
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/print.css
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/readme.txt
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/searchform.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/singular.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/style-rtl.css
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/style.css
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/content-cover.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/content.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/entry-author-bio.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/entry-header.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/featured-image.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/modal-menu.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/modal-search.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/navigation.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/template-parts/pagination.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/templates/template-cover.php
+1651654050~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwenty/templates/template-full-width.php
+1651654050~~8~~twentytwentyone 1.5
+1651654050~~8~~Attempting to download it from wordpress.org
+1651654051~~8~~Building files list from ZIP archive
+1651654051~~8~~Using sha1 algo
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/404.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/archive.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/custom-color-overrides.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/ie-editor.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/ie.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/print.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/style-dark-mode-rtl.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/style-dark-mode.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/style-editor-customizer.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/css/style-editor.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/customize-helpers.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/customize-preview.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/customize.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/dark-mode-toggler.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/editor-dark-mode-support.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/editor.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/palette-colorpicker.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/polyfills.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/js/skip-link-focus-fix.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/01-settings/file-header.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/01-settings/fonts.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/01-settings/global.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/02-tools/functions.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/02-tools/mixins.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/03-generic/breakpoints.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/03-generic/clearings.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/03-generic/normalize.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/03-generic/reset.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/03-generic/vertical-margins.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/04-elements/blockquote.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/04-elements/forms-editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/04-elements/forms.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/04-elements/links.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/04-elements/media.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/04-elements/misc.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/_config.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/audio/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/blocks-editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/blocks.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/button/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/button/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/code/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/code/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/columns/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/columns/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/cover/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/cover/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/file/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/file/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/gallery/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/gallery/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/group/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/group/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/heading/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/heading/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/html/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/image/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/image/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/latest-comments/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/latest-comments/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/latest-posts/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/latest-posts/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/legacy/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/legacy/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/list/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/list/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/media-text/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/media-text/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/navigation/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/navigation/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/paragraph/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/paragraph/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/preformatted/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/preformatted/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/pullquote/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/pullquote/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/query-loop/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/query-loop/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/quote/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/quote/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/rss/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/rss/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/search/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/search/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/separator/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/separator/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/social-icons/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/social-icons/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/spacer/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/table/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/table/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/tag-clould/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/tag-clould/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/utilities/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/utilities/_font-sizes.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/utilities/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/verse/_editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/verse/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/05-blocks/video/_style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/404.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/archives.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/comments.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/entry.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/footer-navigation.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/footer.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/header.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/navigation.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/pagination.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/posts-and-pages.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/search.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/single.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/06-components/widgets.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/07-utilities/a11y.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/07-utilities/color-palette.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/07-utilities/ie.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/07-utilities/measure.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/07-utilities/print.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/style-dark-mode.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/style-editor.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/assets/sass/style.scss
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-custom-colors.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-customize-color-control.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-customize.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-svg-icons.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/comments.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/footer.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/functions.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/header.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/image.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/back-compat.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/block-patterns.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/block-styles.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/custom-css.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/menu-functions.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/starter-content.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/template-functions.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/inc/template-tags.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/index.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/package-lock.json
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/package.json
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/page.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/postcss.config.js
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/readme.txt
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/search.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/searchform.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/single.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/style-rtl.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/style.css
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/content/content-excerpt.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/content/content-none.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/content/content-page.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/content/content-single.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/content/content.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-aside.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-audio.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-chat.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-gallery.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-image.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-link.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-quote.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-status.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-video.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/footer/footer-widgets.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/header/entry-header.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/header/excerpt-header.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/header/site-branding.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/header/site-header.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/header/site-nav.php
+1651654051~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentyone/template-parts/post/author-bio.php
+1651654051~~8~~twentytwentytwo 1.1
+1651654051~~8~~Attempting to download it from wordpress.org
+1651654052~~8~~Building files list from ZIP archive
+1651654052~~8~~Using sha1 algo
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/assets/fonts/LICENSE.md
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/functions.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/block-patterns.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo-black-background.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/index.php
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/parts/footer.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/parts/header-large-dark.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/parts/header-small-dark.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/parts/header.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/readme.txt
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/style.css
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/404.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/archive.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/blank.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/home.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/index.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/page-large-header.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/page-no-separators.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/page.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/search.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/single-no-separators.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/templates/single.html
+1651654052~~2~~Checksum mismatch: /home/setecorp/aranib/wp-content/themes/twentytwentytwo/theme.json
+1651654052~~2~~Additional/suspicious files: 4
+1651654052~~2~~Total modified theme files: 312
+1651654052~~8~~Process executed in 3.3055 seconds and used 9.53 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654053~~1~~Processing step 8/14
+1651654053~~1~~Skipping snapshots comparison, no older files shapshot found
+1651654053~~8~~Process executed in 0.0037 seconds and used 9.61 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654053~~1~~Processing step 9/14
+1651654053~~1~~Skipping snapshots comparison, no older database shapshot found
+1651654053~~8~~Process executed in 0.0058 seconds and used 9.61 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654053~~1~~Processing step 10/14
+1651654053~~1~~Skipping Google Safe Browsing: no API key found
+1651654053~~8~~Process executed in 0.0053 seconds and used 9.61 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654053~~1~~Processing step 11/14
+1651654053~~1~~Skipping binary files scan
+1651654053~~8~~Process executed in 0.0046 seconds and used 9.61 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654053~~1~~Processing step 12/14
+1651654053~~1~~Running anti-malware scanner
+1651654053~~1~~Building the list of files to check
+1651654053~~8~~Checking user-defined exclusion lists
+1651654053~~8~~Creating files/folders exclusion list
+1651654053~~8~~Limiting search to files smaller than 1,048,576 bytes
+1651654053~~8~~Files ignored based on user-defined exclusion lists: 15
+1651654054~~1~~Retrieving signatures lists
+1651654054~~8~~Checking built-in signatures list
+1651654054~~8~~Downloading the latest version
+1651654054~~8~~Verifying digital signature with public key
+1651654054~~8~~Verifying signatures
+1651654055~~8~~Verified signatures: 883
+1651654055~~8~~Process executed in 1.0230 seconds and used 9.92 MB of memory (NinjaScanner additional memory: 0.31 MB).
+1651654055~~1~~Processing step 13/14
+1651654059~~2~~Potentially unsafe files: /home/setecorp/aranib/slicemap.php
+1651654059~~2~~Total potentially unsafe files: 1
+1651654059~~8~~Process executed in 4.6053 seconds and used 12.91 MB of memory (NinjaScanner additional memory: 3.30 MB).
+1651654059~~1~~Processing step 14/14
+1651654059~~1~~Performing various checks
+1651654059~~8~~Process executed in 0.0173 seconds and used 9.61 MB of memory (NinjaScanner additional memory: 0.00 MB).
+1651654059~~8~~Sending email report
+1651654060~~1~~Exiting scanning process
